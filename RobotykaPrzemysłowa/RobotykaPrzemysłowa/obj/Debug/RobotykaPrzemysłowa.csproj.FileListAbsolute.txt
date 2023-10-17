@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.Form1.resources
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.Properties.Resources.resources
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\bin\Debug\RobotykaPrzemysłowa.exe.config
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\bin\Debug\RobotykaPrzemysłowa.exe
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\bin\Debug\RobotykaPrzemysłowa.pdb
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.exe
+C:\Users\asus\source\repos\RobotykaPrzemysłowa\RobotykaPrzemysłowa\obj\Debug\RobotykaPrzemysłowa.pdb
